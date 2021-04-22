@@ -1,2 +1,2 @@
 # lflist
-FIC Forbidden &amp; Limited Card Lists
+MDC Forbidden &amp; Limited Card Lists
